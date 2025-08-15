@@ -1,0 +1,7 @@
+Nível de Título 1Nível de Título 2Nível de Título 3Nível de Título 4Nível de Título 5Nível de Título 6Formatação de TextoAqui estão alguns exemplos de formatação de texto:Texto em negritoTexto em itálicoTexto em negrito e itálico~~Texto riscado~~Código em linha é útil para destacar pequenas partes de código, como variavel_exemplo.Citação em Bloco"A imaginação é mais importante que o conhecimento. O conhecimento é limitado, enquanto a imaginação abraça o mundo inteiro, estimulando o progresso, dando à luz a evolução."— Albert EinsteinListasLista Não OrdenadaItem 1Item 2Sub-item 2.1Sub-item 2.2Item 3Lista OrdenadaPrimeiro itemSegundo itemTerceiro itemSub-item 3.1Sub-item 3.2Lista de Tarefas[x] Tarefa concluída[ ] Tarefa pendente[ ] Outra tarefa pendenteBloco de Código// Exemplo de código em JavaScript
+function saudacao(nome) {
+  console.log(`Olá, ${nome}!`);
+}
+
+saudacao("Mundo");
+TabelaCabeçalho 1Cabeçalho 2Cabeçalho 3Alinhado à esquerdaCentralizadoAlinhado à direitaConteúdoConteúdoConteúdoExemploExemploExemploLinks e ImagensLink: Visite o Google.Imagem:Notação Matemática (LaTeX)Fórmulas em LinhaA famosa equação de Einstein é E=mc2. A identidade de Euler, eipi+1=0, é considerada uma das mais belas fórmulas da matemática.Fórmulas em BlocoA fórmula para resolver uma equação de segundo grau (ax2+bx+c=0) é:x=2a−b±b2−4ac​​O Teorema Fundamental do Cálculo pode ser expresso como:∫ab​f(x)dx=F(b)−F(a)E aqui está a expansão da série de Taylor para ex:ex=n=0∑∞​n!xn​=1+x+2!x2​+3!x3​+⋯
