@@ -1,3 +1,10 @@
+---
+layout: default
+title: Minha Página de Teste
+nav_order: 2 
+---
+
+
 Claro\! Preparei um exemplo completo de Markdown que abrange a maioria das funcionalidades, desde o básico até elementos mais avançados, incluindo notações matemáticas com LaTeX.
 
 Você pode copiar e colar o texto abaixo em qualquer editor ou visualizador de Markdown para testar a renderização.
